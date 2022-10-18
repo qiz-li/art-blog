@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Visual Journal Cover—"Spaceship"'
-date: 2022-10-03 20:49:21 -0700
 permalink: /vj-cover-spaceship
 tag: paint-pen
 ---
