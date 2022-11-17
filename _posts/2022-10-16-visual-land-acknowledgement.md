@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Visual Land Acknowledgement"
+title: "Place, Perspective, and Time"
 permalink: /land-acknowledgement
+project: "Visual Land Acknowledgement"
 tag: coloured-pencil
 ---
 
-_I acknowledge the traditional Coast Salish territories of the Semiahmoo, Tsawwassen, Kwantlen, and Katzie First Nations on which I live, play, and learn. I recognize the importance of understanding the history of this land, and I pledge my role in the ongoing works toward reconciliation. I hope that, through learning, my artworks can reflect and honour the traditional teachings of Coast Salish peoples._
+<p id="acknowledgement">I acknowledge the traditional Coast Salish territories of the Semiahmoo, Tsawwassen, Kwantlen, and Katzie First Nations on which I live, play, and learn. I recognize the importance of understanding the history of this land, and I pledge my role in the ongoing works toward reconciliation. I hope that, through learning, my artworks can reflect and honour the traditional teachings of Coast Salish peoples.</p>
 
 <input type="checkbox" id="btnControl" />
 <label for="btnControl">
@@ -27,6 +28,11 @@ Water is a central element throughout the piece. On one end lies the beach: a re
 The piece only allows the viewer to see all its parts when they actively rotate the image. This demonstrates the insight we gain by expanding our perspectives but also underscores the fact that we must make a conscious effort to do so. In practice, it represents the fact that to create a society that empowers and cherishes every person, we all must make an effort to understand the history and presence of first peoples on the land we live in.
 
 <style>
+    #acknowledgement{
+        font-family: "Lora", serif;
+        margin: 1rem 0;
+    }
+
     #artwork {
         -moz-transition: transform 7s;
         -webkit-transition: transform 7s;

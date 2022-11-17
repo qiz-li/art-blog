@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000.002" viewBox="0 0 1000 1000.002">
+  <g id="icon" transform="translate(-344 -269.238)">
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(712.958 272.045)" fill="#fff" stroke="#000" stroke-width="30">
+      <rect width="234" height="997.083" stroke="none"/>
+      <rect x="15" y="15" width="204" height="967.083" fill="none"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M0,0,238.611,3.242l-4.168,876.779-233.309-.3Z" transform="matrix(0.883, -0.469, 0.469, 0.883, 364.845, 381.259)"/>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(1255.913 1035.241) rotate(90)" fill="#fff" stroke="#000" stroke-width="30">
+      <rect width="234" height="543" stroke="none"/>
+      <rect x="15" y="15" width="204" height="513" fill="none"/>
+    </g>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="233.414" height="674.602" transform="translate(1110.586 594.241)"/>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(1110.586 273.045)" fill="#fff" stroke="#000" stroke-width="30">
+      <rect width="233.414" height="252.206" stroke="none"/>
+      <rect x="15" y="15" width="203.414" height="222.206" fill="none"/>
+    </g>
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(344 272.045)" fill="#fff" stroke="#000" stroke-width="30">
+      <rect width="234" height="997.083" stroke="none"/>
+      <rect x="15" y="15" width="204" height="967.083" fill="none"/>
+    </g>
+  </g>
+</svg>

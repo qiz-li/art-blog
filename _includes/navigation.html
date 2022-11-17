@@ -1,0 +1,13 @@
+<header class="sidebar" role="banner">
+    <nav role="navigation">
+        <a href="/" class="logo"><img src="assets/images/icon.svg" alt="Logo">
+            <p>Does Art</p>
+        </a>
+        <ul>
+            {% for item in site.data.navigation.links %}
+            <li><a href="{{ item.url }}" {% if item.url==page.url %} class="active" {% endif %}>{{ item.title }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </nav>
+</header>
