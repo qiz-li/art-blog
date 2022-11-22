@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Place, Perspective, and Time"
+image: land-acknowledgement
 permalink: /land-acknowledgement
 project: "Visual Land Acknowledgement"
 tag: coloured-pencil

@@ -2,6 +2,7 @@
 layout: post
 title: Spaceship
 project: "Visual Journal Cover"
+image: vj-cover
 permalink: /vj-cover-spaceship
 tag: paint-pen
 ---
