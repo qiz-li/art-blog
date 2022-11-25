@@ -13,7 +13,7 @@ permalink: /works
                 <img class="postImage" src="assets/images/works/{{ post.image }}.png">
             </div>
             <div class="textContainer">
-                {{ post.project }}
+                <h3>{{ post.project }}</h3>
                 <h2>{{ post.title }}</h2>
                 <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time>
             </div>
