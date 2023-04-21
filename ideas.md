@@ -14,7 +14,7 @@ A peak into my sketchbook and the spontaneous ideas within it and beyond! (In ch
 
 Snowwy mountains at Whistler (or maybe it was Blackcomb?)
 
-![Snowwy mountains at Whistler](assets/images/ideas/snow.jpg)
+{% picture jpt-webp assets/images/ideas/snow.jpg %}
 
 ## On my desk
 
@@ -35,13 +35,13 @@ Saw some of Andy Warhol's artwork at the store!
 
 Helped Millennium STEM BC, a youth-led not-for-profit organization based in Canada, design a sponsorship package. Clearly showcased the various tiers of sponsorship and the benefits of each tier.
 
-![Sponsorship tiers](assets/images/ideas/sponsor_tiers.png)
+{% picture jpt-webp assets/images/ideas/sponsor_tiers.png --alt Sponsorship tiers %}
 
 ## Exploration
 
 Visited my favourite place in Vancouver!
 
-![VAG!](assets/images/ideas/vag.png)
+{% picture jpt-webp assets/images/ideas/vag.png --alt Vancouver Art Gallery %}
 
 ## Spheres and Cylinders
 
@@ -52,4 +52,4 @@ Visited my favourite place in Vancouver!
 
 Created a website mockup for a web design agency known as Vebr (pronounced /ˈwebər/).
 
-![Vebr](assets/images/ideas/vebr.png)
+{% picture jpt-webp assets/images/ideas/vebr.png --alt Vebr! %}
