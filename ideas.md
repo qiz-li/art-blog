@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: ideas
 title: Ideas
 permalink: /ideas
 ---
