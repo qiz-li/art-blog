@@ -1,0 +1,5 @@
+presets:
+  thumbnail:
+    base_width: 700
+    pixel_ratios: [1, 1.5, 2]
+    formats: [webp, original]

@@ -6,11 +6,10 @@ permalink: /works
 <section class="posts">
     <ul>
         {% for post in site.posts %}
-        <!-- <h2> </h2> -->
         <a class="container" href="{{ site.baseurl }}{{ post.url }}">
             <div class="imgContainer">
-                <img class="postImage--grey" src="assets/images/works/{{ post.image }}--grey.png">
-                <img class="postImage" src="assets/images/works/{{ post.image }}.png">
+                {% picture thumbnail assets/images/works/{{ post.image }}--grey.png %}
+                {% picture thumbnail assets/images/works/{{ post.image}}.png %}
             </div>
             <div class="textContainer">
                 <h3>{{ post.project }}</h3>
