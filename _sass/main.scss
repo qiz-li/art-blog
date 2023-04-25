@@ -411,5 +411,14 @@ figcaption {
   font-family: "Lora", serif;
   font-size: 1.6rem;
   margin-bottom: 0;
-  margin-top: 1.6rem;
+  margin-top: 2rem;
+}
+
+.ideas h2 + p > em {
+  color: grey;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  display: block;
+  // font-weight: 300;
+  margin: -0.5rem 0 -1rem 0;
 }
