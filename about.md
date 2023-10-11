@@ -23,6 +23,8 @@ Nathan Li is an aspiring artist living in the Geater Vancouver area. At school, 
     Visual Arts Program, 2019-Present
     <br>
     Media Arts Program, 2019-2021
+    <h4>College for Creative Studies</h4>
+    Blender 3D Modeling Precollege Summer Program, 2023
     <h4>California Institute of the Arts <i>(via Coursera)</i></h4>
     Visual Elements of User Interface Design Course, 2020
     <h4>Studied Under:</h4>
